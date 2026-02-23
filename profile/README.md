@@ -3,7 +3,7 @@
 
 A powerful Rust-based library for quantitative risk management. Calculate VaR, run Monte Carlo simulations, and analyze portfolio risk directly from your terminal.
 
---
+---
 
 ## Install
 
@@ -33,6 +33,5 @@ rivar analyze --portfolio holdings.json
 
 Get started with the docs: https://docs.rivar.dev
 
----
 
 
