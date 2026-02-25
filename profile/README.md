@@ -1,4 +1,6 @@
-![RIVAR banner](assets/rivar.png)
+<p align="center">
+   <img src="assets/rivar.png" alt="RIVAR banner" />
+</p>
 
 Rivar is a Rust-based library for quantitative and computational risk management. It provides implementations of portfolio risk measures and simulation methods designed for correctness, reproducibility, and performance.
 
